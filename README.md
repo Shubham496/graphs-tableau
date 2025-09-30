@@ -19,7 +19,7 @@ Each visualization is built using sample or mock data, focusing on clarity, flex
 
 ## screenshots
 
-![Screenshot 1](./screenshots/calendar.jpeg)
+![Screenshot 1](./screenshots/calender.jpeg)
 ![Screenshot 2](./screenshots/heatmap.jpeg)
 ![Screenshot 3](./screenshots/kpis.jpeg)
 ![Screenshot 4](./screenshots/map.jpeg)
