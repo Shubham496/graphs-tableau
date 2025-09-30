@@ -17,6 +17,19 @@ Each visualization is built using sample or mock data, focusing on clarity, flex
 
 ---
 
+## screenshots
+
+![Screenshot 1](./screenshots/calendar.jpeg)
+![Screenshot 2](./screenshots/heatmap.jpeg)
+![Screenshot 3](./screenshots/kpis.jpeg)
+![Screenshot 4](./screenshots/map.jpeg)
+![Screenshot 5](./screenshots/donut.jpeg)
+![Screenshot 9](./screenshots/treemap.jpeg)
+![Screenshot 22](./screenshots/quardrent.jpeg)
+
+
+
+
 ## 📷 Gallery of Visualizations
 
 Here’s a categorized list of the 61 visualizations included in this project:
@@ -115,3 +128,34 @@ Here’s a categorized list of the 61 visualizations included in this project:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shubham496/graphs-tableau/
+   ```
+
+2. Open the `.twb` or `.twbx` files in Tableau Desktop.
+3. Explore and customize the visualizations as needed.
+4. Refer to the comments and documentation within each Tableau file for guidance on data sources and customization options.
+5. Use your own datasets to replicate and adapt the visualizations.
+6. Share your customized visualizations with the community!
+7. If you create new visualizations or improve existing ones, consider contributing back to the repository via pull requests.
+8. Follow best practices for data visualization to ensure clarity and effectiveness.
+   
+
+
+
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests to help improve this repository.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact Me
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+- **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
+- **Phone:** +91 9520132466
+- **LinkedIn:** [linkedin.com/in/Shubham](https://www.linkedin.com/in/shubham-singh-64827a228/)
+
+I look forward to hearing from you!
